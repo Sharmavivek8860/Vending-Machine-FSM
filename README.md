@@ -13,4 +13,3 @@ Tech Stack
 Applications
 •	Digital logic design
 •	FSM-based real-time controllers
-
