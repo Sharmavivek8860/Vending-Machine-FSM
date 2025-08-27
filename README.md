@@ -1,2 +1,16 @@
-# Vending-Machine-FSM
-Built a vending machine controller using Moore/Mealy FSM in Verilog HDL. Supports item selection, multi-cycle operations, and change return logic. Verified through RTL simulation in Vivado. Demonstrates FSM-based system design and modular hardware coding.
+🥤 Vending Machine Controller
+Overview
+A vending machine controller built using FSM in Verilog HDL. Supports product selection and change return logic.
+Features
+•	Moore/Mealy FSM implementation
+•	Multi-cycle operation support
+•	Change return logic
+•	Simulation and verification in Vivado
+Tech Stack
+•	Verilog HDL
+•	FSM design
+•	Xilinx Vivado
+Applications
+•	Digital logic design
+•	FSM-based real-time controllers
+
